@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: 42-0.github.io/sitemap.xml
